@@ -1,0 +1,9 @@
+8
+Aleks pet a1.png 31 16
+Aca pet a3.png 20 11
+jeca pet a2.png 8 7
+a aa a5.png 0 0
+dema dema a5.png 8 6
+marko marko a1.png 7 8
+aaa a a3.png 3 0
+bbb a a3.png 0 3
